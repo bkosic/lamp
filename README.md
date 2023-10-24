@@ -1,0 +1,2 @@
+# lamp
+Simple LAMP server
